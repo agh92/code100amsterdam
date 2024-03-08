@@ -1,0 +1,23 @@
+{
+  "name": "code100",
+  "version": "1.0.0",
+  "description": "Challenge of Code100 Amsterdam 2024",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agh92/code100amsterdam.git"
+  },
+  "keywords": [
+    "code100",
+    "wearedevelopers"
+  ],
+  "author": "Andres Gil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agh92/code100amsterdam/issues"
+  },
+  "homepage": "https://github.com/agh92/code100amsterdam#readme"
+}
