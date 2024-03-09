@@ -12,3 +12,5 @@ He’re is a [JSON dataset](https://devrel.wearedevelopers.com/code100-puzzles/0
     { "width": 100, "height": 100 }
 ]
 ```
+
+Want to see a python implementation? Checkout this [repo](https://github.com/aarangop/code100amsterdam)! 
